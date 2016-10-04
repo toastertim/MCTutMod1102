@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialmod1102",
+  "name": "Tutorial Mod 1.10.2",
+  "description": "learning 1.10.2 modding through tutorial",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["toastertim"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

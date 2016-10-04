@@ -1,0 +1,7 @@
+#English US Lang File for Tutorial mod
+
+#Creative Tab
+itemGroup.tab_tutorial=Tutorial Mod 1.10.2
+
+#Items
+item.tutorial_item.name=Tutorial Item
